@@ -1,6 +1,6 @@
 ## Hi there 👋<h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
 <p align="center">
-  🔥 I'm building SaaS tools, AI agents, and full-stack web apps!
+  🔥 I'm building SaaS tools, and full-stack web apps!
 </p>
 
 ---
@@ -10,9 +10,10 @@
 I'm a full stack developer and indie hacker working on projects like Campus Connect, Tube Tracker, Exam Helper, and more.
 
 - 💼 Founder of **Avinash Kumar Software**
-- 🧠 Currently learning: AI Tools, Automation, MongoDB, GraphQL
+- 🧠 Currently learning: AI Tools, full stack website developer(MERN Stack), MySql, GraphQL
 - 📚 College: CSE (Batch 2027)
-- 🧑‍💻 Love building: Chrome Extensions | Android Apps | SaaS | AI Projects
+- 🧑‍💻 Love building: Chrome Extensions | Android Apps | SaaS | AI Projects| website responsive 
+- 
 
 ---
 
@@ -28,7 +29,6 @@ I'm a full stack developer and indie hacker working on projects like Campus Conn
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
 
