@@ -10,9 +10,9 @@
 I'm a full stack developer and indie hacker working on projects like Campus Connect, Tube Tracker, Exam Helper, and more.
 
 - 💼 Founder of **Avinash Kumar Software**
-- 🧠 Currently learning: AI Tools, full stack website developer(MERN Stack), MySql, GraphQL
+- 🧠 Currently learning:  full stack website developer(MERN Stack), MySql, GraphQL ,AI Tools for frontend,
 - 📚 College: CSE (Batch 2027)
-- 🧑‍💻 Love building: Chrome Extensions | Android Apps | SaaS | AI Projects| website responsive 
+- 🧑‍💻 Love building: Chrome Extensions | website responsive 
 - 
 
 ---
@@ -28,7 +28,6 @@ I'm a full stack developer and indie hacker working on projects like Campus Conn
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
 
@@ -44,11 +43,11 @@ I'm a full stack developer and indie hacker working on projects like Campus Conn
 ---
 
 ### 🧠 Projects in Progress
+1 Business CRM Managment 
+https://app.netlify.com/projects/minicrmtaskautomation/overview
 
-- 📱 Campus Connect — College student hub app
-- 📊 Exam Helper — Study + Planning + AI tools
-- 🔗 Tube Tracker — Learn from YouTube with AI
-- 🧠 AI LeetCode Helper — Chrome extension for coders
+2.Transform Your Farming with AI ->Hackathon project 
+https://app.netlify.com/projects/agrivartai/overview
 
 
 ---
