@@ -12,10 +12,9 @@ I'm a full stack developer and indie hacker working on projects like Campus Conn
 - 💼 Founder of **Avinash Kumar Software**
 - 🧠 Currently learning:  full stack website developer(MERN Stack), MySql, GraphQL ,AI Tools for frontend,
 - 📚 College: CSE (Batch 2027)
-- 🧑‍💻 Love building: Chrome Extensions | website responsive 
+- 🧑‍💻 Love building: Chrome Extensions | website responsive
+- project link:https://agrivartai.netlify.app/
 - 
-
----
 
 ### 💻 Languages & Technologies
 
