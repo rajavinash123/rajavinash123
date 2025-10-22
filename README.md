@@ -7,15 +7,16 @@
 
 ### 🚀 About Me
 
-I'm a full stack developer and indie hacker working on projects like Campus Connect, Tube Tracker, Exam Helper, and more.
+I'm a full stack developer and indie hacker working on projects like ai-resume-analyzer more.
 
 - 💼 Founder of **Avinash Kumar Software**
 - 🧠 Currently learning:  full stack website developer(MERN Stack), MySql, GraphQL ,AI Tools for frontend,
 - 📚 College: CSE (Batch 2027)
-- 🧑‍💻 Love building: Chrome Extensions | website responsive
+- 🧑‍💻 Love building:
+- full stack web app
 - project link:https://agrivartai.netlify.app/
+- project link :https://ai-resume-analyzers.onrender.com/
 - 
-
 ### 💻 Languages & Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
