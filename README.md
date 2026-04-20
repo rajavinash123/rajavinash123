@@ -1,79 +1,86 @@
-## Hi there 👋<h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
+<!-- Avinash Kumar | GitHub Profile README -->
+
+<h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
+<h3 align="center">🔥 MERN Stack Developer · AI Tools · DSA Enthusiast</h3>
+
 <p align="center">
-  🔥 I'm building SaaS tools, and full-stack web apps!
+  Building full-stack web apps and AI-powered tools from Ludhiana, India 🇮🇳
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a full stack developer and indie hacker working on projects like ai-resume-analyzer more.
-
-- 💼 Founder of **Avinash Kumar Software**
-- 🧠 Currently learning:  full stack website developer(MERN Stack), MySql, GraphQL ,AI Tools for frontend,
-- 📚 College: CSE (Batch 2027)
-- 🧑‍💻 Love building:
-- full stack web app
-- project link:https://agrivartai.netlify.app/
-- project link :https://ai-resume-analyzers.onrender.com/
-- 
-### 💻 Languages & Technologies
-
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
+- 🎓 **CSE @ Gulzar Group of Institutions** — Batch 2027, CGPA: 8.0/10
+- 💼 **DSA Intern @ RCPL, IIT Kanpur** (May – Jul 2025)
+- 🧠 Currently learning: MERN Stack · MySQL · GraphQL · AI tools
+- 🛠️ I love building: full-stack apps · AI-powered tools · SaaS products
+- 💡 Motto: *Keep shipping small ideas. You'll build big things.*
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Coding Stats (Codolio · LeetCode · GFG)
+
+| Platform | Metric | Value |
+|---|---|---|
+| LeetCode | Rating | **1413** |
+| LeetCode | Problems Solved | **314** (Easy: 140, Med: 157, Hard: 17) |
+| All Platforms | Total Solved | **326** |
+| Active Days | Streak | **141 days** |
+
+---
+
+### 💻 Tech Stack
+
+**Languages:** C++ · Python · JavaScript · TypeScript · HTML · CSS  
+**Frameworks:** React.js · Next.js · Node.js · Express.js · Tailwind CSS · Bootstrap  
+**Databases:** MongoDB · Firebase  
+**Tools:** Git · GitHub · Postman · VS Code · Vite · Vercel · Netlify
+
+---
+
+### 🏗️ Featured Projects
+
+#### 🤖 [AI Resume Analyzer](https://ai-resume-analyzers.onrender.com/)
+> React · TypeScript · Tailwind CSS · Node.js · OpenAI API · Puter.js
+
+- ATS compatibility scoring + keyword optimization
+- OpenAI-powered tone analysis and improvement suggestions
+- Fully responsive MERN stack app
+- [GitHub Repo](https://github.com/rajavinash123/Ai-resume-analyzers)
+
+#### 🌾 [AgriVartAI — Smart Agriculture](https://agrivartai.netlify.app/)
+> React · TensorFlow · Firebase
+
+- AI crop disease detection via image upload
+- Real-time Firebase data sync + instant diagnosis
+- Built for hackathon — helps improve agricultural productivity
+- [GitHub Repo](https://github.com/rajavinash123/AgriVartAi)
+
+#### 📊 [Mini CRM Task Automation](https://app.netlify.com/projects/minicrmtaskautomation/overview)
+> MERN Stack · Netlify (In Progress)
+
+- Business CRM with task automation and client pipeline management
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajavinash123&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajavinash123&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajavinash123&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajavinash123&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-### 🧠 Projects in Progress
-1 Business CRM Managment 
-https://app.netlify.com/projects/minicrmtaskautomation/overview
+### 📫 Connect with Me
 
-2.Transform Your Farming with AI ->Hackathon project 
-https://app.netlify.com/projects/agrivartai/overview
-
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:avinashkumar808482@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-kumar-5bb841279/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=github&logoColor=white)](https://rajavinash123.github.io)
 
 ---
 
-### 📫 Contact Me
-
-- Email: rajavinash123@gmail.com  
-- Website: [rajavinash123.github.io](https://rajavinash123.github.io)
-
----
-
-> 💡 Tip: Keep shipping small ideas. You'll build big things.
-
-
-
-<!--
-**rajavinash123/rajavinash123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajavinash123&style=flat-square&color=58a6ff" alt="Profile views"/>
+</p>
