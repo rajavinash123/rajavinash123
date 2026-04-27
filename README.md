@@ -16,8 +16,9 @@
 
 - 🎓 **CSE @ Gulzar Group of Institutions** — Batch 2027, CGPA: 8.0/10
 - 💼 **DSA Intern @ RCPL, IIT Kanpur** (May – Jul 2025)
-- 🧠 Currently learning: **MERN Stack · MySQL · GraphQL · AI Tools**
-- 🛠️ I love building: **full-stack apps · AI-powered tools · SaaS products**
+- 🧠 Currently learning: **MERN Stack  AI Tools**
+- 🛠️ I love building: ** full-stack apps · AI-powered tools **
+- 🛠️ currently building: **@UsePre2Hire plafor where i am provide DSA+DEV+ONE DAY interview Prep Notes +CheetSheet to Prep Right Driection For interview confidence**
 - 💡 Motto: *Keep shipping small ideas. You'll build big things.*
 
 ---
