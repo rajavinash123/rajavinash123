@@ -1,6 +1,6 @@
 <!-- Avinash Kumar | GitHub Profile README -->
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
-<h3 align="center">🔥 MERN Stack Developer · AI Tools · DSA Enthusiast</h3>
+<h3 align="center">🔥 MERN Stack Developer </h3>
 
 <p align="center">
   Building full-stack web apps and AI-powered tools from Ludhiana, India 🇮🇳
@@ -16,8 +16,8 @@
 
 - 🎓 **CSE @ Gulzar Group of Institutions** — Batch 2027, CGPA: 8.0/10
 - 💼 **DSA Intern @ RCPL, IIT Kanpur** (May – Jul 2025)
-- 🧠 Currently learning: **MERN Stack  AI Tools**
-- 🛠️ I love building: ** full-stack apps · AI-powered tools **
+- 🧠 Currently learning: **MERN Stack Developer *
+- 🛠️ I love building: ** full-stack apps @techBlogify- technical blog solution platform**
 - 🛠️ currently building: **@UsePre2Hire plafor where i am provide DSA+DEV+ONE DAY interview Prep Notes +CheetSheet to Prep Right Driection For interview confidence**
 - 💡 Motto: *Keep shipping small ideas. You'll build big things.*
 
