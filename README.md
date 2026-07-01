@@ -27,7 +27,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+full-stack+web+apps+from+Ludhiana%2C+India+%F0%9F%87%AE%F0%9F%87%B3;MERN+Stack+Developer;Exploring+GenAI+%2B+RAG+%2B+LLMs;Building+Agents+with+LangChain+%26+LangGraph;Keep+shipping+small+ideas." alt="Typing SVG" />
 </p>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=40&width=100%25" width="100%"/></p>
 
 ## 🚀 About Me
 
@@ -38,7 +38,7 @@
 - 🌱 Learning: **LangChain, LangGraph, MCP (Model Context Protocol) & Docker**
 - 💡 *"Keep shipping small ideas. You'll build big things."*
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=40&width=100%25" width="100%"/></p>
 
 ## 📊 Coding Stats
 
@@ -53,7 +53,7 @@
 
 </div>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=40&width=100%25" width="100%"/></p>
 
 ## 💻 Tech Stack
 
@@ -111,7 +111,7 @@
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=40&width=100%25" width="100%"/></p>
 
 ## 🏗️ Featured Projects
 
@@ -164,7 +164,7 @@ A technical blogging platform built for developers to write and share.
 </tr>
 </table>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=40&width=100%25" width="100%"/></p>
 
 ## 📈 GitHub Stats
 
@@ -185,7 +185,7 @@ A technical blogging platform built for developers to write and share.
   <img src="https://github-profile-trophy.vercel.app/?username=rajavinash123&theme=darkhub&no-frame=true&row=1&column=6" width="90%"/>
 </p>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=40&width=100%25" width="100%"/></p>
 
 ## 📫 Let's Connect
 
