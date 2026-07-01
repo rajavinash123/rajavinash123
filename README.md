@@ -1,6 +1,8 @@
-<h1 align="center">Hi there, I'm Avinash Kumar 👋</h1>
+<div align="center">
 
-<h3 align="center">MERN Stack Developer | Building full-stack web apps & AI-powered tools</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Avinash%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20%26%20GenAI%20Builder&descAlignY=58&descSize=18" width="100%"/>
+
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/avinash-kumar-5bb841279/">
@@ -22,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+full-stack+web+apps+from+Ludhiana%2C+India+%F0%9F%87%AE%F0%9F%87%B3;MERN+Stack+Developer;AI+%2B+Web+Enthusiast;Keep+shipping+small+ideas." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+full-stack+web+apps+from+Ludhiana%2C+India+%F0%9F%87%AE%F0%9F%87%B3;MERN+Stack+Developer;Exploring+GenAI+%2B+RAG+%2B+LLMs;Building+Agents+with+LangChain+%26+LangGraph;Keep+shipping+small+ideas." alt="Typing SVG" />
 </p>
 
 ---
@@ -31,8 +33,9 @@
 
 - 🎓 **CSE, Gulzar Group of Institutions** — Batch 2027 · CGPA 8.0/10
 - 💼 **DSA Intern @ RCPL, IIT Kanpur** (May – Jul 2025)
-- 🧠 Currently sharpening my **MERN stack** skills
+- 🧠 Currently sharpening my **MERN stack** skills and diving into **Generative AI, RAG & LLM Agents**
 - 🛠️ Currently building **techBlogify** — a technical blogging platform (since June 10, 2025)
+- 🌱 Learning: **LangChain, LangGraph, MCP (Model Context Protocol) & Docker**
 - 💡 *"Keep shipping small ideas. You'll build big things."*
 
 ---
@@ -84,9 +87,22 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-**Tools & Platforms**
+**🧠 GenAI · LLMs · Agents**
 
 <p>
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector_DBs-4B0082?style=for-the-badge&logo=pinecone&logoColor=white" />
+</p>
+
+**🛠️ DevOps & Tools**
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -103,14 +119,14 @@
 <tr>
 <td width="50%">
 
-### 🤖 AI Resume Analyzer
+### 🤖 Resumind — AI Resume Analyzer
 React · TypeScript · Tailwind · Node.js · OpenAI API · Puter.js
 
 - ATS compatibility scoring + keyword optimization
 - OpenAI-powered tone analysis and suggestions
 - Fully responsive MERN stack app
 
-**[🔗 Live Demo](https://ai-resume-analyzers.onrender.com/)** · **[📂 Source](https://github.com/rajavinash123/Ai-resume-analyzers)**
+**[🔗 Live Demo](https://ai-resume-analyzers.vercel.app/)** · **[📂 Source](https://github.com/rajavinash123/Ai-resume-analyzers)**
 
 </td>
 <td width="50%">
@@ -165,6 +181,10 @@ A technical blogging platform built for developers to write and share.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajavinash123&theme=react-dark&hide_border=true" width="90%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajavinash123&theme=darkhub&no-frame=true&row=1&column=6" width="90%"/>
+</p>
+
 ---
 
 ## 📫 Let's Connect
@@ -179,3 +199,5 @@ A technical blogging platform built for developers to write and share.
 <p align="center">
   <i>"Keep shipping small ideas. You'll build big things."</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
