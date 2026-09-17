@@ -6,7 +6,7 @@
   alt="Avinash Kumar"
 />
 
-# Hi, I’m Avinash Kumar 👋
+# Hi, I'm Avinash Kumar 👋
 
 ### Full Stack Developer | MERN Stack | Next.js | Android Development
 
@@ -16,19 +16,15 @@ I build scalable web applications, native Android apps, and practical software p
   <a href="https://www.prepapp.co.in/">
     <img src="https://img.shields.io/badge/PrepApp-Live_Product-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-
   <a href="https://linkedin.com/in/avinash-kumar-5bb841279/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:avinashkumar808482@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://rajavinash123.github.io">
     <img src="https://img.shields.io/badge/Portfolio-View_Work-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="https://leetcode.com/QekHkOjo">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
@@ -42,7 +38,7 @@ I build scalable web applications, native Android apps, and practical software p
 <br/><br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+full-stack+applications+with+React%2C+Next.js+and+Node.js;Developing+native+Android+apps+with+Kotlin+and+Firebase;Building+PrepApp+for+structured+technical+interview+preparation;Learning+Docker%2C+System+Design%2C+GenAI%2C+RAG+and+LLM+Agents;Open+to+Software+Development+and+Full+Stack+opportunities"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+full-stack+applications+with+React%2C+Next.js+and+Node.js;Developing+native+Android+apps+with+Kotlin+and+Firebase;Building+AI-powered+products+with+LLMs%2C+RAG+and+agents;Shipping+PrepApp+for+structured+technical+interview+preparation;Open+to+Software+Development+and+Full+Stack+opportunities"
   alt="Current work and learning"
 />
 
@@ -63,7 +59,7 @@ I enjoy converting ideas into functional products, deploying them for real users
 - 🌐 Building applications with **React, Next.js, Node.js, Express and MongoDB**
 - 📱 Developing Android apps using **Kotlin, XML and Firebase**
 - 🧠 Practising Data Structures and Algorithms using **C++**
-- 🤖 Exploring **Generative AI, RAG, LangChain, LangGraph and AI agents**
+- 🤖 Building with **Generative AI, RAG, LangChain, LangGraph and AI agents**
 - 🐳 Learning production deployment, Docker, SEO and application monitoring
 - 💼 Open to internships and entry-level software development opportunities
 
@@ -75,35 +71,9 @@ I enjoy converting ideas into functional products, deploying them for real users
 
 [PrepApp](https://www.prepapp.co.in/) is a learning platform designed to help students and developers prepare for technical interviews through structured and accessible resources.
 
-#### Key features
+**Key features:** subject-wise interview questions · technical notes and cheat sheets · last-minute revision resources · Android learning applications · APK distribution · Firebase-powered content management · admin-controlled subject/question management · SEO-friendly app and category pages · user feedback and rating collection · analytics and download tracking
 
-- Subject-wise interview questions
-- Technical notes and cheat sheets
-- Last-minute revision resources
-- Android learning applications
-- APK distribution through the website
-- Firebase-powered content management
-- Admin-controlled subject and question management
-- SEO-friendly app and category pages
-- User feedback and rating collection
-- Analytics and download tracking
-
-#### Topics covered
-
-- MERN Stack
-- JavaScript
-- React
-- Node.js
-- Express.js
-- MongoDB
-- Java Full Stack
-- Python Full Stack
-- Data Structures and Algorithms
-- DBMS
-- Operating Systems
-- Computer Networks
-- AI and Machine Learning
-- Data Science
+**Topics covered:** MERN Stack · JavaScript · React · Node.js · Express.js · MongoDB · Java Full Stack · Python Full Stack · Data Structures and Algorithms · DBMS · Operating Systems · Computer Networks · AI and Machine Learning · Data Science
 
 🌐 **Live website:** [https://www.prepapp.co.in/](https://www.prepapp.co.in/)
 
@@ -112,60 +82,33 @@ I enjoy converting ideas into functional products, deploying them for real users
 ## Current Learning Focus
 
 ### Full Stack Development
-
-- Advanced React patterns
-- Next.js App Router
-- TypeScript
-- REST API architecture
-- Authentication and authorization
-- MongoDB indexing and aggregation
-- Pagination, filtering and search
-- Application security
-- Performance optimization
+- Advanced React patterns, Next.js App Router, TypeScript
+- REST API architecture, authentication and authorization
+- MongoDB indexing and aggregation, pagination, filtering and search
+- Application security, performance optimization
 - Technical SEO and Core Web Vitals
 
 ### Android Development
-
-- Kotlin
-- XML layouts
-- RecyclerView
-- Firebase Firestore
-- Notifications and reminders
-- Offline-first applications
-- AdMob integration
-- Signed APK and AAB generation
-- Android release workflows
+- Kotlin, XML layouts, RecyclerView
+- Firebase Firestore, notifications and reminders
+- Offline-first applications, AdMob integration
+- Signed APK and AAB generation, Android release workflows
 
 ### Backend and DevOps
-
-- Node.js and Express
-- Docker
-- Multi-stage container builds
-- Environment configuration
-- API validation and error handling
+- Node.js and Express, Docker, multi-stage container builds
+- Environment configuration, API validation and error handling
 - CI/CD fundamentals
-- Vercel, Netlify, Render and Railway
-- Logging and monitoring
+- Vercel, Netlify, Render and Railway, logging and monitoring
 
 ### Generative AI
-
-- Large Language Models
-- Retrieval-Augmented Generation
-- Vector databases
-- LangChain
-- LangGraph
-- AI agents
-- Model Context Protocol
-- Prompt engineering
+- Large Language Models, Retrieval-Augmented Generation, vector databases
+- LangChain, LangGraph, AI agents
+- Model Context Protocol, prompt engineering
 - AI integration in web applications
 
 ### Computer Science Fundamentals
-
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
+- Data Structures and Algorithms, Object-Oriented Programming
+- Database Management Systems, Operating Systems, Computer Networks
 - System Design fundamentals
 
 ---
@@ -173,7 +116,6 @@ I enjoy converting ideas into functional products, deploying them for real users
 ## Technical Skills
 
 ### Languages
-
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -185,7 +127,6 @@ I enjoy converting ideas into functional products, deploying them for real users
 </p>
 
 ### Frontend
-
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -196,7 +137,6 @@ I enjoy converting ideas into functional products, deploying them for real users
 </p>
 
 ### Backend and Database
-
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -208,7 +148,6 @@ I enjoy converting ideas into functional products, deploying them for real users
 </p>
 
 ### Android Development
-
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -219,7 +158,6 @@ I enjoy converting ideas into functional products, deploying them for real users
 </p>
 
 ### Generative AI
-
 <p>
   <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -231,7 +169,6 @@ I enjoy converting ideas into functional products, deploying them for real users
 </p>
 
 ### Tools and Deployment
-
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -245,30 +182,79 @@ I enjoy converting ideas into functional products, deploying them for real users
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### NexaMind — AI-Powered Interview Preparation Platform
+
+**React.js · Node.js · Express.js · MongoDB · Gemini AI · JWT · Zod · Puppeteer**
+
+An AI-powered platform that analyzes resumes and job descriptions to generate personalized interview questions, skill-gap analysis, preparation plans, and downloadable resume PDFs.
+
+- Resume + job description parsing with Gemini AI
+- Personalized interview question generation
+- Skill-gap analysis and preparation plans
+- Puppeteer-based resume PDF generation
+- Schema validation with Zod
+- JWT-secured authentication
+
+</td>
+<td width="50%" valign="top">
+
+### BankFlow — Banking Transaction & Ledger System
+
+**Node.js · Express.js · MongoDB · Mongoose · JWT · Google OAuth · Nodemailer**
+
+A backend banking system with secure authentication, account management, money transfers, and a full transaction ledger.
+
+- Secure authentication with JWT and Google OAuth
+- Account management and money transfers
+- Transaction ledger with audit trail
+- Idempotency-based duplicate transaction protection
+- Email notifications via Nodemailer
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### WebTools by PrepApp — Developer Utilities Platform
+
+**Next.js · JavaScript · Tailwind CSS · Firebase · Firestore**
+
+A developer-focused platform providing practical everyday tools for engineers.
+
+- JSON formatter and validator
+- JWT decoder
+- Base64 encoder/decoder
+- URL encoder/decoder
+- UUID generator
+- Firebase/Firestore-backed usage tracking
+
+</td>
 <td width="50%" valign="top">
 
 ### PrepApp
 
 **Next.js · Firebase · Kotlin · Android · SEO**
 
-A technical interview preparation platform and Android learning-app ecosystem.
+A technical interview preparation platform and Android learning-app ecosystem, live and in active use.
 
-- Structured interview questions
-- Notes and cheat sheets
-- Last-minute revision
-- Firebase-managed content
-- APK distribution
-- User feedback and analytics
-- Search-engine-optimized app pages
+- Structured interview questions, notes and cheat sheets
+- Firebase-managed content, APK distribution
+- User feedback, ratings and analytics
+- SEO-optimized app and category pages
 
 **[Live Website](https://www.prepapp.co.in/)**
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### TechBlogify
@@ -278,17 +264,11 @@ A technical interview preparation platform and Android learning-app ecosystem.
 A full-stack technical blogging platform for developers.
 
 - Authentication and authorization
-- Blog CRUD operations
-- Cloudinary image uploads
-- SEO-friendly URLs
-- Search and filtering
-- Comments and likes
-- User dashboard
+- Blog CRUD operations, Cloudinary image uploads
+- SEO-friendly URLs, search and filtering
+- Comments, likes and user dashboard
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### Resumind — AI Resume Analyzer
@@ -297,36 +277,31 @@ A full-stack technical blogging platform for developers.
 
 An AI-powered application that analyses resumes and provides structured improvement suggestions.
 
-- ATS-oriented analysis
-- Keyword recommendations
+- ATS-oriented analysis and keyword recommendations
 - Content improvement suggestions
 - Responsive user interface
 
-**[Live Demo](https://ai-resume-analyzers.vercel.app/)**  
-**[Source Code](https://github.com/rajavinash123/Ai-resume-analyzers)**
+**[Live Demo](https://ai-resume-analyzers.vercel.app/)** · **[Source Code](https://github.com/rajavinash123/Ai-resume-analyzers)**
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### AgriVartAI — Smart Agriculture Platform
 
 **React · TensorFlow · Firebase**
 
-An AI-assisted crop disease detection application created to support farmers through image-based diagnosis.
+An AI-assisted crop disease detection application built to support farmers through image-based diagnosis.
 
-- Crop-image upload
-- AI-based disease detection
+- Crop-image upload and AI-based disease detection
 - Firebase-powered data handling
 - Responsive application interface
 
-**[Live Demo](https://agrivartai.netlify.app/)**  
-**[Source Code](https://github.com/rajavinash123/AgriVartAi)**
+**[Live Demo](https://agrivartai.netlify.app/)** · **[Source Code](https://github.com/rajavinash123/AgriVartAi)**
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### Campus Countdown
@@ -335,26 +310,9 @@ An AI-assisted crop disease detection application created to support farmers thr
 
 A student-focused application for tracking academic and career deadlines.
 
-- Exam countdowns
-- Placement and internship countdowns
+- Exam, placement and internship countdowns
 - Project and semester deadlines
-- Offline-first architecture
-- Notifications and reminders
-
-</td>
-
-<td width="50%" valign="top">
-
-### Coder Keyboard
-
-**Kotlin · Android Input Method Framework**
-
-A productivity-focused mobile keyboard designed for developers.
-
-- Faster access to coding symbols
-- Developer-friendly keyboard layout
-- Mobile coding assistance
-- Technical writing support
+- Offline-first architecture with notifications and reminders
 
 </td>
 </tr>
@@ -379,19 +337,7 @@ A productivity-focused mobile keyboard designed for developers.
 </div>
 
 ### Current DSA Topics
-
-- Arrays and Hashing
-- Two Pointers
-- Sliding Window
-- Stack and Queue
-- Binary Search
-- Linked Lists
-- Trees and Binary Search Trees
-- Heaps
-- Graphs
-- Dynamic Programming
-- Backtracking
-- Bit Manipulation
+Arrays and Hashing · Two Pointers · Sliding Window · Stack and Queue · Binary Search · Linked Lists · Trees and BSTs · Heaps · Graphs · Dynamic Programming · Backtracking · Bit Manipulation
 
 ---
 
@@ -404,7 +350,6 @@ A productivity-focused mobile keyboard designed for developers.
   width="48%"
   alt="GitHub statistics"
 />
-
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajavinash123&layout=compact&theme=github_dark&hide_border=true"
   width="48%"
@@ -435,43 +380,24 @@ A productivity-focused mobile keyboard designed for developers.
 
 I am actively looking for opportunities where I can contribute to real software products, collaborate with experienced developers, and continue growing as a software engineer.
 
-### Roles I am targeting
+**Roles I am targeting:** Full Stack Developer Intern · MERN Stack Developer Intern · React Developer Intern · Node.js Developer Intern · Next.js Developer Intern · Software Development Intern · Android Developer Intern · Junior Full Stack Developer
 
-- Full Stack Developer Intern
-- MERN Stack Developer Intern
-- React Developer Intern
-- Node.js Developer Intern
-- Next.js Developer Intern
-- Software Development Intern
-- Android Developer Intern
-- Junior Full Stack Developer
-
-### What I can contribute
-
+**What I can contribute:**
 - Building responsive web interfaces with React and Next.js
 - Developing REST APIs using Node.js and Express
 - Designing MongoDB and Firebase data models
 - Implementing authentication and authorization
 - Developing native Android applications using Kotlin
+- Building AI-powered features with LLMs, RAG and agents
 - Debugging frontend, backend and Android issues
-- Deploying applications to production
-- Building MVPs from product ideas
+- Deploying applications to production and building MVPs from product ideas
 - Improving technical SEO and application performance
 
 ---
 
 ## Open to Collaboration
 
-I am interested in collaborating on:
-
-- Full-stack web applications
-- Native Android applications
-- Educational technology platforms
-- Developer productivity tools
-- AI-powered applications
-- Interview-preparation products
-- Open-source projects
-- Student-focused software products
+Full-stack web applications · Native Android applications · Educational technology platforms · Developer productivity tools · AI-powered applications · Interview-preparation products · Open-source projects · Student-focused software products
 
 ---
 
@@ -482,15 +408,12 @@ I am interested in collaborating on:
 <a href="mailto:avinashkumar808482@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://linkedin.com/in/avinash-kumar-5bb841279/">
   <img src="https://img.shields.io/badge/LinkedIn-Avinash_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://www.prepapp.co.in/">
   <img src="https://img.shields.io/badge/Website-PrepApp-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
 <a href="https://rajavinash123.github.io">
   <img src="https://img.shields.io/badge/Portfolio-View_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -499,7 +422,7 @@ I am interested in collaborating on:
 
 ### Available for internships, freelance work, collaborations and entry-level software development opportunities.
 
-> “Keep shipping small ideas. Small improvements eventually become meaningful products.”
+> "Keep shipping small ideas. Small improvements eventually become meaningful products."
 
 </div>
 
